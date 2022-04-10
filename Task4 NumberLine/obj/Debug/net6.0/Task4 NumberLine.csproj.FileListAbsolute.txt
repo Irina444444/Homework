@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\Task4 NumberLine.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\Task4 NumberLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\Task4 NumberLine.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\Task4 NumberLine.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\Task4 NumberLine.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\bin\Debug\net6.0\Task4 NumberLine.exe
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\bin\Debug\net6.0\Task4 NumberLine.deps.json
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\bin\Debug\net6.0\Task4 NumberLine.runtimeconfig.json
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\bin\Debug\net6.0\Task4 NumberLine.dll
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\bin\Debug\net6.0\Task4 NumberLine.pdb
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\Task4 NumberLine.dll
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\refint\Task4 NumberLine.dll
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\Task4 NumberLine.pdb
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\Task4 NumberLine.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Homework\Task4 NumberLine\obj\Debug\net6.0\ref\Task4 NumberLine.dll

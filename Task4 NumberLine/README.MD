@@ -1,0 +1,1 @@
+The program that accept the figure N and than revert all even figures from 1 to N including
