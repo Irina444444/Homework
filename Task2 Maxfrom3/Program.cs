@@ -11,15 +11,17 @@ if ((number1 > number2) && (number1 > number3))
     Console.WriteLine(number1);
 }
 
-if ((number2 > number1) && (number2 > number3))
+else
+
+if (number2 > number3) 
 
 {
-    Console.WriteLine("Max from three: ");
+     Console.WriteLine("Max from three: ");
     Console.WriteLine(number2);
 }
-if ((number3 > number1) && (number3 > number2))
+else
 
 {
-    Console.WriteLine("Max from three: ");
+     Console.WriteLine("Max from three: ");
     Console.WriteLine(number3);
 }
