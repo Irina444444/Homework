@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\bin\Debug\net6.0\Task1 Maxfrom2.exe
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\bin\Debug\net6.0\Task1 Maxfrom2.deps.json
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\bin\Debug\net6.0\Task1 Maxfrom2.runtimeconfig.json
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\bin\Debug\net6.0\Task1 Maxfrom2.dll
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\bin\Debug\net6.0\Task1 Maxfrom2.pdb
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\Task1 Maxfrom2.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\Task1 Maxfrom2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\Task1 Maxfrom2.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\Task1 Maxfrom2.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\Task1 Maxfrom2.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\Task1 Maxfrom2.dll
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\refint\Task1 Maxfrom2.dll
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\Task1 Maxfrom2.pdb
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\Task1 Maxfrom2.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Homework\Task1 Maxfrom2\obj\Debug\net6.0\ref\Task1 Maxfrom2.dll
