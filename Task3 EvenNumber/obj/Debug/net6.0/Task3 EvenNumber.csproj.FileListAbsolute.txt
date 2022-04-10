@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\bin\Debug\net6.0\Task3 EvenNumber.exe
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\bin\Debug\net6.0\Task3 EvenNumber.deps.json
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\bin\Debug\net6.0\Task3 EvenNumber.runtimeconfig.json
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\bin\Debug\net6.0\Task3 EvenNumber.dll
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\bin\Debug\net6.0\Task3 EvenNumber.pdb
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\Task3 EvenNumber.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\Task3 EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\Task3 EvenNumber.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\Task3 EvenNumber.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\Task3 EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\Task3 EvenNumber.dll
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\refint\Task3 EvenNumber.dll
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\Task3 EvenNumber.pdb
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\Task3 EvenNumber.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Homework\Task3 EvenNumber\obj\Debug\net6.0\ref\Task3 EvenNumber.dll
