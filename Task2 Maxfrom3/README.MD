@@ -1,0 +1,1 @@
+The program which compare three figures and returns th biggest one
