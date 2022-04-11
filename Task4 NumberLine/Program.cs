@@ -15,4 +15,6 @@ for (int i = number; i < 0; i++)
 
 if (i % 2 == 0)
 
-Console.WriteLine( + i);
+{
+    Console.WriteLine( + i);
+}
