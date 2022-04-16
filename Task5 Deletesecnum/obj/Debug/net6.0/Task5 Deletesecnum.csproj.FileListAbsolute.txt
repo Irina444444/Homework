@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\bin\Debug\net6.0\Task5 Deletesecnum.exe
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\bin\Debug\net6.0\Task5 Deletesecnum.deps.json
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\bin\Debug\net6.0\Task5 Deletesecnum.runtimeconfig.json
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\bin\Debug\net6.0\Task5 Deletesecnum.dll
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\bin\Debug\net6.0\Task5 Deletesecnum.pdb
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\Task5 Deletesecnum.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\Task5 Deletesecnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\Task5 Deletesecnum.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\Task5 Deletesecnum.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\Task5 Deletesecnum.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\Task5 Deletesecnum.dll
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\refint\Task5 Deletesecnum.dll
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\Task5 Deletesecnum.pdb
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\Task5 Deletesecnum.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Homework\Task5 Deletesecnum\obj\Debug\net6.0\ref\Task5 Deletesecnum.dll

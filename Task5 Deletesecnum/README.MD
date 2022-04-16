@@ -1,0 +1,1 @@
+Random 3-digit number and revert back this number without deleted second digit
