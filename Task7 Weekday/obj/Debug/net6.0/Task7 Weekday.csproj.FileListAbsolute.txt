@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\Task7 Weekday.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\Task7 Weekday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\Task7 Weekday.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\Task7 Weekday.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\Task7 Weekday.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\bin\Debug\net6.0\Task7 Weekday.exe
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\bin\Debug\net6.0\Task7 Weekday.deps.json
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\bin\Debug\net6.0\Task7 Weekday.runtimeconfig.json
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\bin\Debug\net6.0\Task7 Weekday.dll
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\bin\Debug\net6.0\Task7 Weekday.pdb
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\Task7 Weekday.dll
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\refint\Task7 Weekday.dll
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\Task7 Weekday.pdb
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\Task7 Weekday.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Homework\Task7 Weekday\obj\Debug\net6.0\ref\Task7 Weekday.dll
