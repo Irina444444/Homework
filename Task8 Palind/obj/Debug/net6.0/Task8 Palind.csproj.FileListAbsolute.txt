@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\Task8 Palind.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\Task8 Palind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\Task8 Palind.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\Task8 Palind.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\Task8 Palind.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\bin\Debug\net6.0\Task8 Palind.exe
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\bin\Debug\net6.0\Task8 Palind.deps.json
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\bin\Debug\net6.0\Task8 Palind.runtimeconfig.json
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\bin\Debug\net6.0\Task8 Palind.dll
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\bin\Debug\net6.0\Task8 Palind.pdb
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\Task8 Palind.dll
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\refint\Task8 Palind.dll
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\Task8 Palind.pdb
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\Task8 Palind.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Homework\Task8 Palind\obj\Debug\net6.0\ref\Task8 Palind.dll
