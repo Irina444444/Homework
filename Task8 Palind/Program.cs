@@ -1,7 +1,10 @@
 ﻿//five-digit number to check if it is palindrom figure or not
 Console.WriteLine("Insert 5-digit number: ");
+
 int num = Convert.ToInt32(Console.ReadLine());
+
 string str = Convert.ToString(num);
+
 string str0 = Convert.ToString(str [0]);
 int num0 = Convert.ToInt32(str0);
 string str4 = Convert.ToString(str [4]);
@@ -15,16 +18,14 @@ if (str.Length == 5 & (num0 == num4 & num1 == num3))
 {
     Console.WriteLine("Palindrom number");
 }
-if (str.Length == 5 & (num0 == num4 & num1 != num3))
+else
 {
+   if (str.Length !=5)
+{
+    Console.WriteLine("Error: 5-digit number need");
+}
+else 
     Console.WriteLine("No palindrom number");
 }
-if (str.Length == 5 & (num0 != num4 & num1 == num3))
-{
-    Console.WriteLine("No palindrom number");
-}
-if (str.Length == 5 & (num0 != num4 & num1 != num3))
-{
-    Console.WriteLine("No palindrom number");
-}
+
 
