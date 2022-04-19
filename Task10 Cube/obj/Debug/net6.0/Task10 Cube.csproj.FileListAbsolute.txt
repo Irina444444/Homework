@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\Task10 Cube.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\Task10 Cube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\Task10 Cube.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\Task10 Cube.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\Task10 Cube.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\bin\Debug\net6.0\Task10 Cube.exe
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\bin\Debug\net6.0\Task10 Cube.deps.json
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\bin\Debug\net6.0\Task10 Cube.runtimeconfig.json
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\bin\Debug\net6.0\Task10 Cube.dll
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\bin\Debug\net6.0\Task10 Cube.pdb
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\Task10 Cube.dll
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\refint\Task10 Cube.dll
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\Task10 Cube.pdb
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\Task10 Cube.genruntimeconfig.cache
+C:\Users\Ирина\Desktop\Homework\Task10 Cube\obj\Debug\net6.0\ref\Task10 Cube.dll
